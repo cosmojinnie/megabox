@@ -1,0 +1,508 @@
+{
+  "ftp://cosmojinnie.dothome.co.kr:21@cosmojinnie": {
+    "html": {
+      "megabox": {
+        ".DS_Store": {
+          "type": "-",
+          "size": 6148,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".vscode": {},
+        "assets": {
+          "css": {
+            "font-awesome.css": {
+              "type": "-",
+              "size": 37418,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "reset.css": {
+              "type": "-",
+              "size": 3522,
+              "lmtime": 1591278637626,
+              "modified": true
+            },
+            "style.css": {
+              "type": "-",
+              "size": 25912,
+              "lmtime": 1591281299306,
+              "modified": true
+            },
+            "swiper.css": {
+              "type": "-",
+              "size": 5553,
+              "lmtime": 1560788298000,
+              "modified": false
+            }
+          },
+          "fonts": {
+            ".DS_Store": {
+              "type": "-",
+              "size": 6148,
+              "lmtime": 1591184862027,
+              "modified": false
+            },
+            "favicon.ico": {
+              "type": "-",
+              "size": 1406,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_144.png": {
+              "type": "-",
+              "size": 11934,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_192.png": {
+              "type": "-",
+              "size": 20461,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_72.png": {
+              "type": "-",
+              "size": 3527,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_96.png": {
+              "type": "-",
+              "size": 5670,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "fontawesome-webfont.eot": {
+              "type": "-",
+              "size": 165742,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "fontawesome-webfont.svg": {
+              "type": "-",
+              "size": 444379,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "fontawesome-webfont.ttf": {
+              "type": "-",
+              "size": 165548,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "fontawesome-webfont.woff": {
+              "type": "-",
+              "size": 98024,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "fontawesome-webfont.woff2": {
+              "type": "-",
+              "size": 77160,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "FontAwesome.otf": {
+              "type": "-",
+              "size": 134808,
+              "lmtime": 1560788298000,
+              "modified": false
+            }
+          },
+          "icons": {
+            "favicon_72.png": {
+              "type": "-",
+              "size": 3527,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_96.png": {
+              "type": "-",
+              "size": 5670,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_144.png": {
+              "type": "-",
+              "size": 11934,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon_192.png": {
+              "type": "-",
+              "size": 20461,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "favicon.ico": {
+              "type": "-",
+              "size": 1406,
+              "lmtime": 1560788298000,
+              "modified": false
+            }
+          },
+          "img": {
+            "bar.png": {
+              "type": "-",
+              "size": 3770,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "bg01.jpg": {
+              "type": "-",
+              "size": 119898,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "card01.jpg": {
+              "type": "-",
+              "size": 3783,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "card01@2.jpg": {
+              "type": "-",
+              "size": 8176,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "card02.jpg": {
+              "type": "-",
+              "size": 3009,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "card02@2.jpg": {
+              "type": "-",
+              "size": 5613,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "card03.jpg": {
+              "type": "-",
+              "size": 3158,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "card03@2.jpg": {
+              "type": "-",
+              "size": 6394,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "close.svg": {
+              "type": "-",
+              "size": 718,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "down.svg": {
+              "type": "-",
+              "size": 431,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event01.jpg": {
+              "type": "-",
+              "size": 51875,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event01@2.jpg": {
+              "type": "-",
+              "size": 135016,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event02.jpg": {
+              "type": "-",
+              "size": 27109,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event02@2.jpg": {
+              "type": "-",
+              "size": 64016,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event03.jpg": {
+              "type": "-",
+              "size": 28725,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event03@2.jpg": {
+              "type": "-",
+              "size": 69196,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event04.jpg": {
+              "type": "-",
+              "size": 94484,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "event04@2.jpg": {
+              "type": "-",
+              "size": 232603,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "icon.png": {
+              "type": "-",
+              "size": 71705,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "icon@2.png": {
+              "type": "-",
+              "size": 114351,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "logo-sub.png": {
+              "type": "-",
+              "size": 15341,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "logo.png": {
+              "type": "-",
+              "size": 19587,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "logo_footer.png": {
+              "type": "-",
+              "size": 4164,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "main_slider01.jpg": {
+              "type": "-",
+              "size": 184488,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "main_slider01_2000.jpg": {
+              "type": "-",
+              "size": 506974,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "main_slider02_2000.jpg": {
+              "type": "-",
+              "size": 509119,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "main_slider03_2000.jpg": {
+              "type": "-",
+              "size": 351587,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "movie.jpg": {
+              "type": "-",
+              "size": 904101,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "new01.jpg": {
+              "type": "-",
+              "size": 218747,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster01.jpg": {
+              "type": "-",
+              "size": 19916,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster01@2.jpg": {
+              "type": "-",
+              "size": 67853,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster02.jpg": {
+              "type": "-",
+              "size": 19585,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster02@2.jpg": {
+              "type": "-",
+              "size": 65356,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster03.jpg": {
+              "type": "-",
+              "size": 23511,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster03@2.jpg": {
+              "type": "-",
+              "size": 72213,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster04.jpg": {
+              "type": "-",
+              "size": 51581,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster04@2.jpg": {
+              "type": "-",
+              "size": 51581,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster05.jpg": {
+              "type": "-",
+              "size": 63801,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster05@2.jpg": {
+              "type": "-",
+              "size": 194229,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster06.jpg": {
+              "type": "-",
+              "size": 69902,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster06@2.jpg": {
+              "type": "-",
+              "size": 229813,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster07.jpg": {
+              "type": "-",
+              "size": 57406,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster07@2.jpg": {
+              "type": "-",
+              "size": 180957,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster08.jpg": {
+              "type": "-",
+              "size": 50099,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster08@2.jpg": {
+              "type": "-",
+              "size": 135033,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster09.jpg": {
+              "type": "-",
+              "size": 60220,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster09@2.jpg": {
+              "type": "-",
+              "size": 199719,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster10.jpg": {
+              "type": "-",
+              "size": 60961,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "poster10@2.jpg": {
+              "type": "-",
+              "size": 153774,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "swiper01.jpg": {
+              "type": "-",
+              "size": 271088,
+              "lmtime": 1560788298000,
+              "modified": false
+            }
+          },
+          "js": {
+            "html5shiv.min.js": {
+              "type": "-",
+              "size": 2730,
+              "lmtime": 1591185461504,
+              "modified": false
+            },
+            "ie-checker.js": {
+              "type": "-",
+              "size": 1013,
+              "lmtime": 1591185459087,
+              "modified": false
+            },
+            "iframe_api.js": {
+              "type": "-",
+              "size": 859,
+              "lmtime": 1591185464837,
+              "modified": false
+            },
+            "jquery.min_1.12.4.js": {
+              "type": "-",
+              "size": 97163,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "modernizr-custom.js": {
+              "type": "-",
+              "size": 7117,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "movie.js": {
+              "type": "-",
+              "size": 2959,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "slick.min.js": {
+              "type": "-",
+              "size": 43881,
+              "lmtime": 1560788298000,
+              "modified": false
+            },
+            "swiper.min.js": {
+              "type": "-",
+              "size": 127934,
+              "lmtime": 1560788298000,
+              "modified": false
+            }
+          }
+        },
+        "index.html": {
+          "type": "-",
+          "size": 130821,
+          "lmtime": 1591279084913,
+          "modified": true
+        }
+      }
+    }
+  },
+  "$version": 1
+}
